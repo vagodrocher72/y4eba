@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.aboutme{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding-top: 120px;
+    padding-bottom: 107px;
+    background-color: #F6F6F6;
+}
+
+.aboutme p{
+    margin: 26px;
+    font-size: 26px;
+}
+
+.aboutme h2{
+    font-size: 34px;
+}
+
+.Portfolio_Link{
+    display: block;
+    color: black;
+    margin-top: 45px;
+    text-align: center;
+}
+
+.container{
+    max-width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+
+
